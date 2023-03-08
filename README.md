@@ -9,9 +9,10 @@ During the Analysis, the number of retiring employees has been determined by tit
 The data in following Retirement Titles table was gathered by sorting out only the employees born from January 1st, 1952 to December 31st, 1955. 
 
 <p align="center">
-![Screenshot](retiring_titles.png)
+![Screenshot](Data/retiring_titles.png)
 </p><br/>
-- In total 90,398 employees will be retiring. That is a large portion of their workforce. 
+
+- In total 90,398 employees will be retiring. That is a large portion of their workforce.
 - Senior Staff and Senior Engineers make up the majority of upcoming retirees.
 - Surprisingly only two Managers will be retiring soon which could point to other staffing issues unrelated to this analysis.
 
@@ -19,14 +20,15 @@ The data in following Retirement Titles table was gathered by sorting out only t
 The following table holds all the Mentorship Eligible Employees born from January 1st, 1965 to December 31st, 1965.
 
 <p align="center">
-![Screenshot](mentorship_eligibility3.png)
+![Screenshot](Data/mentorship_eligibility3.png)
 (Displaying the top 24 by employee number)
 </p><br/>
-#### Total employees by title that are eligible for the Mentorship Program
 
 <p align="center">
-![Screenshot](mentorship_eligibility.png)
+Total employees by title that are eligible for the Mentorship Program
+![Screenshot](Data/mentorship_eligibility.png)
 </p><br/>
+
 - There are 1,549 employees eligible to participate in the mentorship program.
 - 221 Senior Engineers, 521 Senior Staffs and 455 Engineers make up the majority of eligbible mentors.
 

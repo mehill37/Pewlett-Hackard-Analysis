@@ -9,7 +9,7 @@ During the Analysis, the number of retiring employees has been determined by tit
 The data in following Retirement Titles table was gathered by sorting out only the employees born from January 1st, 1952 to December 31st, 1955. 
 
 <p align="center">
-![Screenshot](Data/retiring_titles.png)
+<img src="https://github.com/mehill37/Pewlett-Hackard-Analysis/blob/fd30bc1ecfa809a6180c527139cc87bda13b69f8/Data/retiring_titles.png">
 </p><br/>
 
 - In total 90,398 employees will be retiring. That is a large portion of their workforce.
@@ -20,13 +20,13 @@ The data in following Retirement Titles table was gathered by sorting out only t
 The following table holds all the Mentorship Eligible Employees born from January 1st, 1965 to December 31st, 1965.
 
 <p align="center">
-![Screenshot](Data/mentorship_eligibility3.png)
+<img src="https://github.com/mehill37/Pewlett-Hackard-Analysis/blob/fd30bc1ecfa809a6180c527139cc87bda13b69f8/Data/mentorship_eligibility3.png">
 (Displaying the top 24 by employee number)
 </p><br/>
 
 <p align="center">
 Total employees by title that are eligible for the Mentorship Program
-![Screenshot](Data/mentorship_eligibility.png)
+<img src="https://github.com/mehill37/Pewlett-Hackard-Analysis/blob/fd30bc1ecfa809a6180c527139cc87bda13b69f8/Data/mentorship_eligibility.png">
 </p><br/>
 
 - There are 1,549 employees eligible to participate in the mentorship program.

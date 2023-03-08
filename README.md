@@ -34,5 +34,5 @@ Total employees by title that are eligible for the Mentorship Program
 
 ## Summary:
 - 90,398 positions will need to be filled soon based on the analysis of employees nearing retirement.
-- There are 1.549 employees who are eligible to mentor in Pewlett-Hackard currently. This is not enough mentor's to train replacements for that many positions. Clearly lacking mentor's. Based on the previous tables, there is a lack of mentor's throughout all the departments.
-- The company needs to re-evaluate their criteria for the Mentorship Program and hopefully be better prepared for the wave of 90.398 employees leaving.
+- There are 1,549 employees who are eligible to mentor in Pewlett-Hackard currently. This is not enough mentor's to train replacements for that many positions. Clearly lacking mentor's. Based on the previous tables, there is a lack of mentor's throughout all the departments.
+- The company needs to re-evaluate their criteria for the Mentorship Program and hopefully be better prepared for the wave of 90,398 employees leaving.
